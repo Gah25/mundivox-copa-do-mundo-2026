@@ -78,8 +78,6 @@ CAMPEAO: França
 
 ## Observações
 
-- O enunciado pedia pra começar nas oitavas de final, então comecei com 16 times. Só pra
-  registrar, a Copa de 2026 mudou de formato e o mata-mata agora começa antes, com 32 times.
 - Como os placares são sorteados, cada execução dá um resultado diferente.
 - Deixei o Python e o SQL separados: o Python gera os comandos INSERT com os dados da
   simulação e eu uso eles no script SQL.
