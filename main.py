@@ -33,7 +33,7 @@ def jogar_partida(time1, time2, fase):
         "gols1": gols1, "gols2": gols2, "vencedor": vencedor
     })
 
-    print(f"[{fase}] {time1} {gols1} x {gols2} {time2}  ->  vencedor: {vencedor}")
+    print(f"[{fase}] {time1} {gols1} x {gols2} {time2}  |  vencedor: {vencedor}")
     return vencedor
 
 
